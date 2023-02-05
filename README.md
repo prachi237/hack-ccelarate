@@ -15,6 +15,9 @@ The demand for parking in Indian metros is seeing no signs of stopping. Because 
 We considered addressing these issues with the help of our project Parkify.
 It overcomes the problem of finding a parking space in commercial areas that unnecessary consumes time. Hence this project offers a web based reservation system where users can view various parking areas and select the space to view whether space is available or not. If the booking space is available then he can book it for specific time slot. The booked space will be marked yellow and will not be available for anyone else for the specified time. This system provides an additional feature of cancelling the bookings. User can cancel their books space anytime. Users can even make payment online via credit card. After making payment users are notified about the booking via email along with unique parking number.
 
+![Screenshot 1](https://github.com/prachi237/hack-ccelerate/blob/master/Screenshot (701).png)
+![Screenshot 1](https://github.com/prachi237/hack-ccelerate/blob/master/Screenshot (702).png)
+![Screenshot 1](https://github.com/prachi237/hack-ccelerate/blob/master/Screenshot (703).png)
 ## Challenges we ran into :
 1. Integrating Google Maps API
 2. Hosting website in Github-pages
@@ -48,6 +51,7 @@ It overcomes the problem of finding a parking space in commercial areas that unn
 3. We could complete 60% of our idea in such a short period of time.
 
 ## Screenshots
+
 
 ![Screenshot 1](https://github.com/prachi237/hack-ccelerate/blob/master/1.jpeg)<br>
 ![Screenshot 2](https://github.com/prachi237/hack-ccelerate/blob/master/2.jpeg)<br>

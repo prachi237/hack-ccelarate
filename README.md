@@ -20,6 +20,7 @@ It overcomes the problem of finding a parking space in commercial areas that unn
 <img src="https://github.com/prachi237/hack-ccelerate/blob/master/Screenshot%20(702).png" width="250" height="400">
 <img src="https://github.com/prachi237/hack-ccelerate/blob/master/Screenshot%20(703).png" width="250" height="400">
 </p>
+<br/>
 ## Challenges we ran into :
 1. Integrating Google Maps API
 2. Hosting website in Github-pages

@@ -46,3 +46,11 @@ It overcomes the problem of finding a parking space in commercial areas that unn
 1. This was our first time working with the Google Maps API.
 2. We created a holistic and robust solution with an user friendly interface.
 3. We could complete 60% of our idea in such a short period of time.
+
+## Screenshots
+
+![Screenshot 1](https://github.com/prachi237/hack-ccelerate/blob/master/1.jpeg)<br>
+![Screenshot 2](https://github.com/prachi237/hack-ccelerate/blob/master/2.jpeg)<br>
+![Screenshot 3](https://github.com/prachi237/hack-ccelerate/blob/master/3.jpeg)<br>
+![Screenshot 4](https://github.com/prachi237/hack-ccelerate/blob/master/4.jpeg)<br>
+![Screenshot 5](https://github.com/prachi237/hack-ccelerate/blob/master/5.jpeg)<br>

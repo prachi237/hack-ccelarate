@@ -136,17 +136,26 @@ font-size: 20px;
 }
 /*About section...........................*/
 .about{
-	height: 70vh;
+	height: 80vh;
 	background-color: #fff;
 	display: flex;
   align-items: center;
   justify-content: center
 }
-.para{
+.ab{
+	margin-left: 10%;
+	font-size: 60px;
+}
+.ap{
+	display: inline-block;
 	margin-left: 10%;
 	width: 30%;
+}
+.para{
+	margin-left: 10%;
+	
 	margin-top: 5%;
-	font-size: 20px;
+	font-size: 18px;
 }
 .aboutP{
 	margin-left: 10%;

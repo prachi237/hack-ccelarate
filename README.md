@@ -34,6 +34,8 @@ It overcomes the problem of finding a parking space in commercial areas that unn
 4. Configuring DNS records for custom domain.
 5. We learnt on how to manage our time and work in a team.
 
+## Buisiness Model
+
 ## Future prospects:
 1. With the ever growing population and the demand of having parking spaces we need to expand our project to a huge scale production, dealing with a huge pool of data.
 2. The data (geolocation, vehicle density, user info) acquired by our application can be leveraged to perform various analysis.

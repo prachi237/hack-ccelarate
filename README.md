@@ -1,70 +1,46 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Parkify- Park with ease
 
-## Available Scripts
+Theme: Automobile
 
-In the project directory, you can run:
+## Problem Statement:
+The demand for parking in Indian metros is seeing no signs of stopping. Because land resources are limited, it isn’t possible to conveniently plan parking spaces according to demand. Instead of increasing available parking spaces, an effective technology-based solution must be employed to optimize the use of available spaces. Using sensor and software, smart parking solutions can provide both parking operators and drivers with a real-time map of available spaces.
 
-### `npm start`
+## Problem Analysis:
+1. The limited availability of land and clumsy parking system consumes a lot of parking search time.
+2. This is one of the core reason of traffic problems these days. 
+3. Traffic problems are one of the leading cause of environmental degradation and pollution.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Solution: 
+We considered addressing these issues with the help of our project Parkify.
+It overcomes the problem of finding a parking space in commercial areas that unnecessary consumes time. Hence this project offers a web based reservation system where users can view various parking areas and select the space to view whether space is available or not. If the booking space is available then he can book it for specific time slot. The booked space will be marked yellow and will not be available for anyone else for the specified time. This system provides an additional feature of cancelling the bookings. User can cancel their books space anytime. Users can even make payment online via credit card. After making payment users are notified about the booking via email along with unique parking number.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Challenges we ran into :
+1. Integrating Google Maps API
+2. Hosting website in Github-pages
+3. Configuring DNS records for custom domain.
+4. Time Management
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Why Parkify?
+1.Apart from allowing drivers to reserve spots based on their convenience, smart parking apps also make mobile payments possible. 
+2.Not only does this save drivers time spent searching for a spot, but it also reduces environmental degradation resulting from congestion caused by parking. 
+3.Many smart cities in India are gradually taking to technology as part of a set of interventions to solve their parking woes, Parkify is an encouraging development for mobility and parking issues in India’s urban areas.
 
-### `npm run build`
+## What we learnt?
+1. We learnt how to do sever side deployment in local machine. 
+2  First time we tried Integrating Google Maps API
+3. Hosting website in Github-pages 
+4. Configuring DNS records for custom domain.
+5. We learnt on how to manage our time and work in a team.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Future prospects:
+1. With the ever growing population and the demand of having parking spaces we need to expand our project to a huge scale production, dealing with a huge pool of data.
+2. The data (geolocation, vehicle density, user info) acquired by our application can be leveraged to perform various analysis.
+3. Collaborate with private and government agenciencies to make our application available to public.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Accomplishments we are proud of:
+1. This was our first time working with the Google Maps API.
+2. We created a holistic and robust solution with an user friendly interface.
+3. We could complete 60% of our idea in such a short period of time.
